@@ -1,0 +1,11 @@
+<EgdProject name="MyProject">
+    <version major="1" minor="0"/>
+    <object name='Frame' module='wx'>
+       <property name='Size' value='(100,100)'/>
+       <object name='Panel' module='wx'>
+           <object name='Button' module='wx'>
+               <property name='Label' value='Push Me'/>
+           </object>
+       </object>
+    </object>
+</EgdProject>
